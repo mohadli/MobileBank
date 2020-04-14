@@ -1,0 +1,8 @@
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Release\MobileBankV2.exe.config
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Release\MobileBankV2.exe
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Release\MobileBankV2.pdb
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Release\MobileBankV2.Form1.resources
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Release\MobileBankV2.Properties.Resources.resources
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Release\MobileBankV2.csproj.GenerateResource.Cache
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Release\MobileBankV2.exe
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Release\MobileBankV2.pdb

@@ -1,0 +1,46 @@
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe.config
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.pdb
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csprojResolveAssemblyReference.cache
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Form1.resources
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Properties.Resources.resources
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csproj.GenerateResource.Cache
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.exe
+c:\users\ma\documents\visual studio 2012\Projects\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.pdb
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe.config
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.exe
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.pdb
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.pdb
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csprojResolveAssemblyReference.cache
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Form1.resources
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Properties.Resources.resources
+C:\Users\Novin Pendar\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csproj.GenerateResource.Cache
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe.config
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.exe
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.pdb
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.pdb
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Form1.resources
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Properties.Resources.resources
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csproj.GenerateResource.Cache
+C:\Users\MA\Desktop\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csprojResolveAssemblyReference.cache
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe.config
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.exe
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.pdb
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.pdb
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csprojResolveAssemblyReference.cache
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Form1.resources
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Properties.Resources.resources
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csproj.GenerateResource.Cache
+C:\Users\MA\Desktop\New folder (6)\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2.exe.config
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe.config
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.exe
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.pdb
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.exe
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\bin\Debug\MobileBankV2.pdb
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csprojResolveAssemblyReference.cache
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Form1.resources
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.Properties.Resources.resources
+D:\پروژه ها\Windows Program (V. C#)\دیتابیس موبایل\برنامه محمدعلی آصف\MobileBankV2\MobileBankV2\obj\Debug\MobileBankV2.csproj.GenerateResource.Cache
